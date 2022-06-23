@@ -1,0 +1,1 @@
+- #!/bin/bash\nmkdir -p -m751 my_dir
