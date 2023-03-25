@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# prints string 10 times
 for value in "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School"
 do
 	echo $value
