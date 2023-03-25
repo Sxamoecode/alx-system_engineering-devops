@@ -1,0 +1,12 @@
+ble File  10 lines (9 sloc)  198 Bytes
+
+# ssh_config
+
+Host *
+    PasswordAuthentication no
+    IdentityFile ~/.ssh/school
+    SendEnv LANG LC_*
+    HashKnownHosts yes
+    GSSAPIAuthentication yes
+    HostName 192.168.43.49
+    User ubuntu
