@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+for value in "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School" "Best School"
+do
+	echo $value
+done
