@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# Bash script to reload Gunicorn in a graceful way
 [Unit]
 Description=gunicorn daemon
 After=network.target
